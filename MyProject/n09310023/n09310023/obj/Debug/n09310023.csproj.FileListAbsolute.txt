@@ -1,0 +1,11 @@
+C:\Users\MEGAS\Desktop\MyProject\n09310023\n09310023\bin\Debug\n09310023.exe.config
+C:\Users\MEGAS\Desktop\MyProject\n09310023\n09310023\bin\Debug\n09310023.exe
+C:\Users\MEGAS\Desktop\MyProject\n09310023\n09310023\bin\Debug\n09310023.pdb
+C:\Users\MEGAS\Desktop\MyProject\n09310023\n09310023\obj\Debug\n09310023.csproj.AssemblyReference.cache
+C:\Users\MEGAS\Desktop\MyProject\n09310023\n09310023\obj\Debug\n09310023.Form2.resources
+C:\Users\MEGAS\Desktop\MyProject\n09310023\n09310023\obj\Debug\n09310023.Properties.Resources.resources
+C:\Users\MEGAS\Desktop\MyProject\n09310023\n09310023\obj\Debug\n09310023.csproj.GenerateResource.cache
+C:\Users\MEGAS\Desktop\MyProject\n09310023\n09310023\obj\Debug\n09310023.csproj.CoreCompileInputs.cache
+C:\Users\MEGAS\Desktop\MyProject\n09310023\n09310023\obj\Debug\n09310023.exe
+C:\Users\MEGAS\Desktop\MyProject\n09310023\n09310023\obj\Debug\n09310023.pdb
+C:\Users\MEGAS\Desktop\MyProject\n09310023\n09310023\obj\Debug\n09310023.Form1.resources
