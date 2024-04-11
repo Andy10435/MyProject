@@ -19,7 +19,7 @@ namespace n09310023
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form form = new Form2();
+            Form form = new Form3();
             form.Show();
         }
     }

@@ -24,5 +24,10 @@ namespace n09310023
             else if (btn.Text == "我已經被按過了")
                 btn.Text = "請按我一下";
         }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
